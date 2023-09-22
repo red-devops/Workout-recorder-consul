@@ -19,4 +19,3 @@ https://github.com/red-devops/Packer-guide
 ## Workout-recorder - Old Version
 An older version of the application running on docker compose:<br>
 https://github.com/red-devops/Workout-recorder <br>
-
